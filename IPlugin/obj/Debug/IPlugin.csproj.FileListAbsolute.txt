@@ -1,0 +1,5 @@
+C:\Users\Maciej\documents\visual studio 2015\Projects\ImageBrowser\IPlugin\obj\Debug\IPlugin.csprojResolveAssemblyReference.cache
+C:\Users\Maciej\documents\visual studio 2015\Projects\ImageBrowser\IPlugin\bin\Debug\IPlugin.dll
+C:\Users\Maciej\documents\visual studio 2015\Projects\ImageBrowser\IPlugin\bin\Debug\IPlugin.pdb
+C:\Users\Maciej\documents\visual studio 2015\Projects\ImageBrowser\IPlugin\obj\Debug\IPlugin.dll
+C:\Users\Maciej\documents\visual studio 2015\Projects\ImageBrowser\IPlugin\obj\Debug\IPlugin.pdb

@@ -1,0 +1,15 @@
+C:\Users\Maciej\documents\visual studio 2015\Projects\ImageBrowser\Rotate90\bin\Debug\Rotate90.dll
+C:\Users\Maciej\documents\visual studio 2015\Projects\ImageBrowser\Rotate90\bin\Debug\Rotate90.pdb
+C:\Users\Maciej\documents\visual studio 2015\Projects\ImageBrowser\Rotate90\bin\Debug\ImageBrowser.exe
+C:\Users\Maciej\documents\visual studio 2015\Projects\ImageBrowser\Rotate90\bin\Debug\ImageBrowser.pdb
+C:\Users\Maciej\documents\visual studio 2015\Projects\ImageBrowser\Rotate90\obj\Debug\Rotate90.csprojResolveAssemblyReference.cache
+C:\Users\Maciej\documents\visual studio 2015\Projects\ImageBrowser\Rotate90\obj\Debug\Rotate90.dll
+C:\Users\Maciej\documents\visual studio 2015\Projects\ImageBrowser\Rotate90\obj\Debug\Rotate90.pdb
+C:\Users\Maciej\documents\visual studio 2015\Projects\ImageBrowser\Rotate90\bin\Debug\IPlugin.dll
+C:\Users\Maciej\Desktop\prezka_do_billenium\kody_do_prezki\PWSG\ImageBrowser\Rotate90\bin\Debug\Rotate90.dll
+C:\Users\Maciej\Desktop\prezka_do_billenium\kody_do_prezki\PWSG\ImageBrowser\Rotate90\bin\Debug\Rotate90.pdb
+C:\Users\Maciej\Desktop\prezka_do_billenium\kody_do_prezki\PWSG\ImageBrowser\Rotate90\bin\Debug\ImageBrowser.exe
+C:\Users\Maciej\Desktop\prezka_do_billenium\kody_do_prezki\PWSG\ImageBrowser\Rotate90\bin\Debug\ImageBrowser.pdb
+C:\Users\Maciej\Desktop\prezka_do_billenium\kody_do_prezki\PWSG\ImageBrowser\Rotate90\obj\Debug\Rotate90.csprojResolveAssemblyReference.cache
+C:\Users\Maciej\Desktop\prezka_do_billenium\kody_do_prezki\PWSG\ImageBrowser\Rotate90\obj\Debug\Rotate90.dll
+C:\Users\Maciej\Desktop\prezka_do_billenium\kody_do_prezki\PWSG\ImageBrowser\Rotate90\obj\Debug\Rotate90.pdb

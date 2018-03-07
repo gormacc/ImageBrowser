@@ -1,0 +1,6 @@
+C:\Users\Maciej\documents\visual studio 2015\Projects\ImageBrowser\Rotate270\bin\Debug\Rotate270.dll
+C:\Users\Maciej\documents\visual studio 2015\Projects\ImageBrowser\Rotate270\bin\Debug\Rotate270.pdb
+C:\Users\Maciej\documents\visual studio 2015\Projects\ImageBrowser\Rotate270\obj\Debug\Rotate270.csprojResolveAssemblyReference.cache
+C:\Users\Maciej\documents\visual studio 2015\Projects\ImageBrowser\Rotate270\obj\Debug\Rotate270.dll
+C:\Users\Maciej\documents\visual studio 2015\Projects\ImageBrowser\Rotate270\obj\Debug\Rotate270.pdb
+C:\Users\Maciej\documents\visual studio 2015\Projects\ImageBrowser\Rotate270\bin\Debug\IPlugin.dll

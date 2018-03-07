@@ -1,0 +1,6 @@
+C:\Users\Maciej\documents\visual studio 2015\Projects\ImageBrowser\Rotate180\bin\Debug\Rotate180.dll
+C:\Users\Maciej\documents\visual studio 2015\Projects\ImageBrowser\Rotate180\bin\Debug\Rotate180.pdb
+C:\Users\Maciej\documents\visual studio 2015\Projects\ImageBrowser\Rotate180\obj\Debug\Rotate180.dll
+C:\Users\Maciej\documents\visual studio 2015\Projects\ImageBrowser\Rotate180\obj\Debug\Rotate180.pdb
+C:\Users\Maciej\documents\visual studio 2015\Projects\ImageBrowser\Rotate180\obj\Debug\Rotate180.csprojResolveAssemblyReference.cache
+C:\Users\Maciej\documents\visual studio 2015\Projects\ImageBrowser\Rotate180\bin\Debug\IPlugin.dll
